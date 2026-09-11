@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Anjie Hou.
+- 👀 I’m interested in LLM inference infra, integrated photonics, and SDR (Software Defined Radio)!!!
+- 🌱 Comfortable with Python, C/C++, Rust.
+- ✍️ PhD student at Center of Photonic Integration and Communications
+- 🎯 interned at Moonshot AI, focusing on RL infra, developed [checkpoint-engine](https://github.com/MoonshotAI/checkpoint-engine)
+- 💡 Contributer of [vLLM](https://github.com/vllm-project/vllm) and [vLLM-omni](https://github.com/vllm-project/vllm-omni).
+- 🛠️ Committer of [vLLM afd-plugin](https://github.com/vllm-project/afd-plugin)
